@@ -39,7 +39,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`nome`, `senha`, `email`) VALUES
-('Lucas', 'fernando@gmail.com', 'salvatico'),
+('Lucas', 'fukuda@gmail.com', 'lucas'),
 (NULL, '12345', 'email@gmail.com');
 COMMIT;
 
